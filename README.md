@@ -1,0 +1,1 @@
+# OC-EFI-MSI-Z590-TOMAHAWK-WIFI-macOS-Sonoma
