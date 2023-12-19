@@ -2,6 +2,8 @@
 - This is the repository of my main system based on Msi z590 and 11th gen Intel CPU.
 - From this repository you can download the EFI folder
 
+![image info](./img/welcome.png)
+
 ## Specs?
 - CPU : Intel i5 11600k
 - CPU Cooler : CoolerMaster ML240L V2
