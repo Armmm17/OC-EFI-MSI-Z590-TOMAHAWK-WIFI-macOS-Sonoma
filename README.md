@@ -18,4 +18,4 @@
 - Ethernet : Intel I225V
   
 ## OpenCore Version?
-0.9.7
+0.9.8
