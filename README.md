@@ -9,8 +9,8 @@
 - CPU Cooler : CoolerMaster ML240L V2
 - Motherboard : MSI MAG Z590 TOMAHAWK WIFI
 - Memory : Corsair Vengeance LPX 32GB (4x8GB) 3200MHz DDR4 CL16
-- Storage 1 : Crucial P5 Plus 1TB SSD M.2 PCIe Gen4 NVMe (Windows)   
-- Storage 2 : Crucial P3 Plus 1TB SSD M.2 PCIe Gen3 NVMe (macOS)
+- Storage 1 : Crucial P5 Plus 1TB SSD M.2 PCIe Gen4 NVMe (macOS)   
+- Storage 2 : Crucial P3 Plus 1TB SSD M.2 PCIe Gen3 NVMe (Windows)
 - Storage 3 : SK hynix SC311 SATA 128GB M.2 (Ubuntu)
 - Video Card : XFX Speedster SWFT 210 AMD Radeon™ RX 6600 8GB GDDR6
 - Wifi Card : Intel® Wi-Fi 6E AX210
